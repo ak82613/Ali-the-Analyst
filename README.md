@@ -3,7 +3,7 @@
 
 This repository mainly features projects I worked on as part of the Certification earned from Udemy Academy.
 Traits acquired :
-> SQL Expert          
+* SQL Expert          
 > Write Advanced SQl Queries
 > Create, design, and operate with SQL databases
 > Manage MySQL – the #1 Database Management System
@@ -22,5 +22,5 @@ Traits acquired :
 > Approached more advanced topics in programming like SQL’s triggers, sequences, local and global variables, indexes, and more
 > Merged coding skills and business acumen to solve complex analytical problems
 > Became a proficient SQL user by writing flawless and efficient queries
-> The freedom to query anything you like from a database
+* The freedom to query anything you like from a database
 
