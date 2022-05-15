@@ -4,11 +4,11 @@
 This repository mainly features projects I worked on as part of the Certification earned from Udemy Academy.
 Traits acquired :
 * SQL Expert          
-> Write Advanced SQl Queries
-> Create, design, and operate with SQL databases
-> Manage MySQL – the #1 Database Management System
-> Adopted professionally tested SQL best practices
-> Gained theoretical insights about relational databases
+* Write Advanced SQl Queries
+* Create, design, and operate with SQL databases
+* Manage MySQL – the #1 Database Management System
+* Adopted professionally tested SQL best practices
+* Gained theoretical insights about relational databases
 > Worked with a sophisticated real-life database throughout the course
 > Developed business intuition while solving tasks with big data
 > Relational database management theories
