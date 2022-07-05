@@ -1,0 +1,19 @@
+*/ 
+complying with coding style is crucial
+- you will always work in a team
+
+clean code
+code that is focused and understandable, which means it must be
+readable, logical, and changeable
+good code is not the one computers understand; it is the one
+humans can understand
+
+Coding Techniques and Best Practices
+good practice implies you will choose the version that will be easiest
+to read and understand
+
+when assigning names to variables or SQL objects,
+Coding Techniques and Best Practices
+always chose shorter, meaningful names, conveying specific information
+
+*/
